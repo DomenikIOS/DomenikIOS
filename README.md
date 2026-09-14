@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/badge/Git-4f4f4f?style=flat-square&logo=git&logoColor=D9A441">
 </p>
 
-<br>
+<p align="center">
+  <img src="./divider.svg" width="760">
+</p>
 
 ## Projekte
 
@@ -40,7 +42,9 @@ Cross-Platform-Framework, um beide Ökosysteme in ihrer eigenen Sprache zu lerne
 Beide Versionen entstehen ticketbasiert mit dokumentierten Architekturentscheidungen.
 Die Repositories sind privat — Code und Projektverlauf zeige ich gerne auf Anfrage.
 
-<br>
+<p align="center">
+  <img src="./divider.svg" width="760">
+</p>
 
 ## Arbeitsweise
 
@@ -48,7 +52,9 @@ Die Repositories sind privat — Code und Projektverlauf zeige ich gerne auf Anf
 **Prozess** Ticketbasiert · Conventional Commits · Architecture Decision Records  
 **Qualität** Unit-Tests für Logik-Schichten · stateless/stateful getrennte Composables
 
-<br>
+<p align="center">
+  <img src="./divider.svg" width="760">
+</p>
 
 ## Kontakt
 
