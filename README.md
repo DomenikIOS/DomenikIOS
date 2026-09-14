@@ -56,8 +56,18 @@ Die Repositories sind privat — Code und Projektverlauf zeige ich gerne auf Anf
   <img src="./divider.svg" width="760">
 </p>
 
+
 ## Kontakt
 
-<a href="https://www.linkedin.com/in/domenik-noth-17841b3a4">
-  <img src="https://img.shields.io/badge/LinkedIn-4f4f4f?style=flat-square&logo=linkedin&logoColor=D9A441">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/domenik-noth-17841b3a4">
+    <img src="./contact.svg" width="220" alt="Zum LinkedIn-Profil von Domenik Noth">
+  </a>
+</p>
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/domenik-noth-17841b3a4">
+    <img src="https://img.shields.io/badge/LinkedIn-D9A441?style=for-the-badge&logo=linkedin&logoColor=1a1a1a">
+  </a>
+</p>
