@@ -6,6 +6,17 @@
   Native Apps für iOS und Android — Swift, SwiftUI, Kotlin, Jetpack Compose.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-4f4f4f?style=flat-square&logo=swift&logoColor=D9A441">
+  <img src="https://img.shields.io/badge/SwiftUI-4f4f4f?style=flat-square&logo=swift&logoColor=D9A441">
+  <img src="https://img.shields.io/badge/Kotlin-4f4f4f?style=flat-square&logo=kotlin&logoColor=D9A441">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4f4f4f?style=flat-square&logo=jetpackcompose&logoColor=D9A441">
+  <img src="https://img.shields.io/badge/Firebase-4f4f4f?style=flat-square&logo=firebase&logoColor=D9A441">
+  <img src="https://img.shields.io/badge/Xcode-4f4f4f?style=flat-square&logo=xcode&logoColor=D9A441">
+  <img src="https://img.shields.io/badge/Android%20Studio-4f4f4f?style=flat-square&logo=androidstudio&logoColor=D9A441">
+  <img src="https://img.shields.io/badge/Git-4f4f4f?style=flat-square&logo=git&logoColor=D9A441">
+</p>
+
 <br>
 
 ## Projekte
@@ -16,10 +27,12 @@ Ernährungs-Tracking mit Nachhaltigkeitsbewertung. Barcode scannen, Vital-Score 
 CO₂-Bilanz auf einen Blick. Dieselbe App, zweimal nativ gebaut — bewusst ohne
 Cross-Platform-Framework, um beide Ökosysteme in ihrer eigenen Sprache zu lernen.
 
+<p align="center">
+  <img src="./platforms.svg" alt="GreenBite auf iOS und Android" width="620">
+</p>
+
 | | iOS | Android |
 |---|---|---|
-| **Sprache** | Swift | Kotlin |
-| **UI** | SwiftUI | Jetpack Compose |
 | **Persistenz** | SwiftData | Room |
 | **Backend** | Firebase | Offline-first, Backend geplant |
 | **Architektur** | MVVM | MVVM + Repository Pattern |
@@ -29,14 +42,16 @@ Die Repositories sind privat — Code und Projektverlauf zeige ich gerne auf Anf
 
 <br>
 
-## Schwerpunkte
+## Arbeitsweise
 
-**iOS** · Swift · SwiftUI · SwiftData · Firebase · AVFoundation · Swift Charts  
-**Android** · Kotlin · Jetpack Compose · Room · Retrofit · Navigation 3 · DataStore  
-**Arbeitsweise** · MVVM · Repository Pattern · Conventional Commits · Architecture Decision Records
+**Architektur** MVVM · Repository Pattern · Single Source of Truth  
+**Prozess** Ticketbasiert · Conventional Commits · Architecture Decision Records  
+**Qualität** Unit-Tests für Logik-Schichten · stateless/stateful getrennte Composables
 
 <br>
 
 ## Kontakt
 
-[LinkedIn](https://www.linkedin.com/in/domenik-noth-17841b3a4)
+<a href="https://www.linkedin.com/in/domenik-noth-17841b3a4">
+  <img src="https://img.shields.io/badge/LinkedIn-4f4f4f?style=flat-square&logo=linkedin&logoColor=D9A441">
+</a>
